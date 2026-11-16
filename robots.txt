@@ -3,3 +3,5 @@ Allow: /
 
 Sitemap: https://impro0126-pixel.github.io/apps/sitemap.xml
 Sitemap: https://impro0126-pixel.github.io/gagyebueong/sitemap.xml
+
+#DaumWebMasterTool:8d42136d2b8f0ff7229028e637594c8d8338ee4e24615f3101410c151ddb1dd8:CNSJIIGOISrSV2aL3hPlgQ==
